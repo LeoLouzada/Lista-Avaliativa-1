@@ -6,7 +6,6 @@ int main(){
     int n, x;
 
     do{
-        printf("Cadastre uma senha de 4 digitos:\n");
         scanf("%d", &n);
 
         if(n > 9999 || n < 1000){
