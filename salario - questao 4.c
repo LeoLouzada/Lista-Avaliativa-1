@@ -18,7 +18,7 @@ int main(){
         salTotal = sal + (0.08 * sal);
     }
 
-    printf("R$ %0.2f", salTotal);
+    printf("R$ %0.2f\n", salTotal);
 
     return 0;
 }
