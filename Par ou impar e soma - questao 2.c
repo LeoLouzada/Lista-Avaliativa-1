@@ -23,7 +23,7 @@ int main(){
         n2 = n2 / 10;
     }
 
-    printf("A soma dos algorismos de %d eh %d\n", n, soma);
+    printf("A soma dos algarismos de %d eh %d\n", n, soma);
 
     return 0;
 }
